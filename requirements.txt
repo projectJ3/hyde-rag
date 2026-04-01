@@ -1,0 +1,16 @@
+# LlamaIndex core + integrations
+llama-index
+llama-index-core
+llama-index-llms-groq
+llama-index-embeddings-huggingface
+llama-index-vector-stores-qdrant
+
+# Qdrant vector database client
+qdrant-client
+
+# Gradio UI
+gradio
+
+# Utilities
+python-dotenv
+sentence-transformers
